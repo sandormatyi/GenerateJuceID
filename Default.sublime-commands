@@ -1,0 +1,6 @@
+[
+    {
+        "caption": "Generate JUCE ID",
+        "command": "generate_juce_id"
+    }
+]
